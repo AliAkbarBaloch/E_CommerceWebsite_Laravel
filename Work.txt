@@ -1,0 +1,9 @@
+Login and Registration
+Home Design Like E Commerce Website
+Product Search
+Add to Cart
+User Order Placement
+Order Details
+Order History
+User Profile
+Style with bootstrap
